@@ -1,3 +1,4 @@
+
 I am adding a line to see if I can do this with bash
 
 The Rainbow and the Unicorn and Ponies
@@ -5,10 +6,15 @@ The Rainbow and the Unicorn and Ponies
 
 Today is Earth day! 
 
+
 Indigo
 Recycle!
+
+
 The rainbow purple pink yellow green red
 These are the colors of the rainbow
+
 Change
 Changed
+
 
